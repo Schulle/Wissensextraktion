@@ -1,11 +1,3 @@
-Hier können wir den akutellen Stand für das Wissensextraktionsprojekt protokollieren und alle vorhandenen Daten sammeln
-
-Projekt-Arbeit
-Auf der Team-Seite im Wiki, z.B. TeaM2, wird die Arbeit protokolliert
-Arbeitsplan mit zeitlicher und personeller Aufteilung, z.B. Gantt-Diagramm
-Protokolle der Teamberatungen
-
-
 # 1.Projekt-Ergebnisse: #
   1. Beschreibung des Algorithmus
     * Klassifikation ( Einteilung eines Gegenstandsbereiches in Klassen bsp: Kunden und deren Kreditwürdigkeit)
