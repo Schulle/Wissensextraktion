@@ -8,10 +8,25 @@ Protokolle der Teamberatungen
 
 # 1.Projekt-Ergebnisse: #
   1. Beschreibung des Algorithmus
-    * Einsatzziel
-    * Grenzen
-    * Aufwand
-    * Parameter
+    * Klassifikation ( Einteilung eines Gegenstandsbereiches in Klassen bsp: Kunden und deren Kreditwürdigkeit)
+      * Verfahren
+          - Induktion von entscheidungsbäumen
+          - Induktion von Klassifikationsregeln
+          - Neuronale Feedforward Netze ( überwacht oder selbst organisiert )
+          - Bayes Verfahren
+          - Instanzbasiertes Lerne
+      * Paramter 
+          - Trainingsdaten --> Klassifikationsalgorithmus --> Klassifikationsregeln
+    * Assoziationsanaylse ( Erkennen und Quantifizieren von Zusammenhängen und Abhängigkeiten )
+      * Verfahren
+          - A-Priori
+          - ART-Netze ( Adaptiv Resonnace Theory )
+          - überwachte neuronale Netze
+      * Anwendung 
+          - Risikoabschätzung im Kreditwesen
+          - Spielanalyse gegnerischer Fußballmanschaften
+
+    
   2. Experimente
     * anhand eigener oder unserer Datensätze, inkl. kurzer Beschreibung
     * Ergebnisse
