@@ -1,3 +1,5 @@
+Added Schulle to Repo
+
 # 1.Projekt-Ergebnisse: #
   1. Beschreibung des Algorithmus
     * Klassifikation ( Einteilung eines Gegenstandsbereiches in Klassen bsp: Kunden und deren Kreditwürdigkeit)
